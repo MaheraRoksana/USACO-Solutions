@@ -1,12 +1,11 @@
 /*
-ID: maherar1
+ID: [REDACTED]
 PROG: ride
 LANG: C++
 */
 #include <iostream>
 #include <fstream>
 #include <string>
-
 using namespace std;
 
 int main() {
