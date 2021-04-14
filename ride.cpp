@@ -12,8 +12,6 @@ using namespace std;
 int main() {
     ofstream fout ("ride.out");
     ifstream fin ("ride.in");
-    //freopen("ride.in", "r", stdin);
-    //freopen("ride.out", "w", stdout);
     string c, g;
     int sc=1;
     int sg = 1;
